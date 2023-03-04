@@ -1,9 +1,11 @@
 # Capstone-5-Database
 
+Database, Capstone #2 Data Science Bootcamp, Task 39
 
 
+A LIMITED TASK TO CREATE A SIMPLE RETAIL DATABASE.
 
-
+BRIEF FOR THE TASK AS SET-OUT BELOW:-
 
 Compulsory Task
 
